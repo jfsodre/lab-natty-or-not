@@ -53,6 +53,7 @@ Um grande insight foi o artigo anexo no github que elencou num quadro diversas I
 O Remini.ia não foi citado no artigo ou nas aulas, era uma plataforma já do meu uso para melhorar ou recuperar fotos envelhecidas pelo tempo. 
 
 ## Links Interessantes
+[link do projeto no D-ID] https://studio.d-id.com/share?id=a7b1688e5defa6ce374e1d002fb41320&utm_source=copy
 
 [Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
 
