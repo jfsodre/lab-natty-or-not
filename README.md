@@ -20,29 +20,37 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Introdução sobre o Tetraedro do Fogo
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+
+O projeto utilizou em sua totalidade ferramentas de IA para construção do avatar, texto e aúdio. O video de pouco mais de 2 minutos sobre o Tetraedro do Fogo. Poderia ter incrementado o projeto com mais recursos, porém o tempo para terminar o bootcampo está escasso e to muito atrasado.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Usamos
+
+o REMINI para fazer a imagem utilizada no avatar.
+o D_ID para dar vida ao avatar
+o ChatGPT para criar o texto sobre o Tetraedro do Fogo
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+
+Primeiro criamos a imagem no Remini, utilizamos 8 fotos selfies para que a ferramenta cria-se um avatar referente a um bombeiro americano.
+Segundo pedimos ao ChatGPT que criasse um artigo sobre o Tetraedro do Fogo e suas características e abordasse os agentes de extinção, colocamos também as classes, mas o texto ficou longo e passou do limite de 3 minutos que a plataforma do D_ID permite para os projetos free trial.
+Terceiro anexamos tudo ao D-ID free, que fez o video e deu vida ao avatar.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+
+O video cumpriu as nossas expectativas diante do desafio, poderíamos melhorar o projeto com recursos que são oportunizados apenas nos modelos pagos.  Como todas as IAs usadas foram com recuros limitados, o projeto nos agradou pela simplicidade e facilidade. É um pequeno passo para a busca do conhecimento. 
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+
+Cada dia que adentramos no universo das Ias generativas, percebemos a gama de oportunidades que se abrem diante de nossos olhos. 
 
 ### Exemplos e Insigths
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+Um grande insight foi o artigo anexo no github que elencou num quadro diversas IAs e suas aplicações. O obejeitvo é conhecer cada uma delas para mehorar nosso desenvolvimento.
+O Remini.ia não foi citado no artigo ou nas aulas, era uma plataforma já do meu uso para melhorar ou recuperar fotos envelhecidas pelo tempo. 
 
 ## Links Interessantes
 
