@@ -22,7 +22,7 @@ Foi utilizado o HeyGen e chatGPT
 Busquei um avatar que poderia ser utilizado , o chatGPT para criar a ideia do texto
 
 ## 🚀 Resultados
-[Resultados do projeto]("https://app.heygen.com/videos/0a4725b88dcc443cb6f5c20b29891cb3")
+[Resultados do projeto](https://app.heygen.com/videos/0a4725b88dcc443cb6f5c20b29891cb3)
 
 ## 💭 Reflexão (Opcional)
 Foi muito interessante, conseguir entregar algo ou ideias tao rapido.
