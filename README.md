@@ -5,6 +5,7 @@ Ferramenta que coleta as opiniões sobre um estabelecimento, e usa IA generativa
 
 ## 🤖 Tecnologias Utilizadas
 API's Google
+
 API's OpenAI
 
 ## 🧐 Processo de Criação
